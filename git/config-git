@@ -1,0 +1,7 @@
+[init]
+    defaultBranch = main
+[core]
+    quotepath = false
+    longpaths = true
+[color]
+    ui = auto
