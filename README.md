@@ -47,6 +47,16 @@ Install Docker CE via USTC mirror.
 curl -fsSL https://raw.githubusercontent.com/serosme/script/main/docker/install.sh | sudo bash
 ```
 
+## Mirror
+
+### Debian
+
+Replace APT sources with USTC mirror for Debian trixie.
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/serosme/script/main/mirror/debian.sh | sudo bash
+```
+
 ## GitHub
 
 ### Clean
